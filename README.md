@@ -15,5 +15,14 @@
 
 `git commit -am '<your message here>'`
 
-
 ## Push changes
+
+`git push origin <branch name>`
+
+## Check my local branch
+
+`git branch` 
+
+## See my local changes
+
+`git diff`
