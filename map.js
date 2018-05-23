@@ -5,4 +5,4 @@ var triples = numbers.map(function(num))
 	return num*2 ;
 }
 
-
+	
